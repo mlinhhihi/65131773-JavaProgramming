@@ -4,7 +4,7 @@ Các bài thực hành và bài tập được lưu tại đây
 
 
 
-&nbsp;	Trương Thị Mỹ Linh\_65.HTTT
+ 	Trương Thị Mỹ Linh\_65.HTTT
 
-&nbsp;	Học phần: Lập trình thiết bị động
+ 	Học phần: Lập trình thiết bị di động
 
