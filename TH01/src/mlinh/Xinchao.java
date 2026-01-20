@@ -14,8 +14,7 @@ public class Xinchao {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Xin chào. Tôi là sinh viên khóa 65 khoa CNTT - NTU");
-		System.out.print("Trương Thị Mỹ Linh: lập trình Java");
-
-	}
+		System.out.println("Trương Thị Mỹ Linh: lập trình Java");
+		System.out.print("Thêm dòng mới");	}
 
 }
