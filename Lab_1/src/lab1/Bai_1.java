@@ -1,5 +1,6 @@
 /**
- * 
+ Viết chương trình cho phép nhập họ và tên sinh viên, điểm trung bình từ bàn
+phím sau đó xuất ra màn hình với định dạng: <<họ và tên>> <<điểm>> điểm.
  */
 package lab1;
 //
